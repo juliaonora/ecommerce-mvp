@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce-mvp",
+  "version": "1.0.0",
+  "description": "Ecommerce MVP Model",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx ./src/main.ts",
+    "build": "tsc",
+    "start": "node ./dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliaonora/ecommerce-mvp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/juliaonora/ecommerce-mvp/issues"
+  },
+  "homepage": "https://github.com/juliaonora/ecommerce-mvp#readme",
+  "dependencies": {
+    "tsx": "^4.20.5"
+  }
+}
